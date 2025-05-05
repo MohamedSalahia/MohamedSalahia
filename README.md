@@ -12,9 +12,9 @@
 ## Preferred Frameworks
 
 <div>
-  <img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
   <img alt="Laravel" src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
   <img alt="WORDPRESS" src="https://img.shields.io/badge/WORDPRESS%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
 </div>
 
 ## Design
@@ -38,8 +38,8 @@
 ## CI / CD
 
 <div>
-  <img alt="TravisCI" src="https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/>
   <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
+  <img alt="TravisCI" src="https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/>
 </div>
 
 ## Hosting/SaaS

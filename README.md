@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mohamad Salahia
 
-<h3>A Professional Backend developer from Syria</h3>
+<h3>A Professional Backend developer</h3>
 
 ## Programming Languages
 
